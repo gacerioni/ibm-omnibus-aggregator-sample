@@ -1,0 +1,25 @@
+#
+# omni.dat file as prototype for interfaces file
+#
+# Ident: $Id: omni.dat 1.5 1999/07/13 09:34:20 chris Development $
+#
+[PRD_AGG_P]
+{
+	Primary: 192.168.15.50 4100
+}
+[PRD_AGG_B]
+{
+	Primary: 192.168.15.50 4101
+}
+[PRD_AGG_GAT_BI]
+{
+	Primary: 192.168.15.50 4200
+}
+[OMNIBUSAGG_PA]
+{
+	Primary: 192.168.15.50 4300
+}
+[NCO_PROXY]
+{
+	Primary: omnihost 4400
+}
